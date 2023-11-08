@@ -43308,7 +43308,7 @@ j=t.N
 i=t.z
 k=A.au(["projectId",k.c,"blocId",k.d],j,i)
 s=6
-return A.a_(l.n8(0,"https://7ef4-62-228-14-131.ngrok-free.app/states",A.rE(A.au(["Authorization","Bearer "+$.q9],j,i)),k,i),$async$qk)
+return A.a_(l.n8(0,"https://ffd4-62-228-14-131.ngrok-free.app/states",A.rE(A.au(["Authorization","Bearer "+$.q9],j,i)),k,i),$async$qk)
 case 6:n=b
 if(n.c===200)o.aj(new A.aj0(o,n))
 q=1
@@ -43364,7 +43364,7 @@ j=t.N
 i=t.z
 k=A.au(["projectId",k.c,"blocId",k.d],j,i)
 s=6
-return A.a_(l.n8(0,"https://7ef4-62-228-14-131.ngrok-free.app/events",A.rE(A.au(["Authorization","Bearer "+$.q9],j,i)),k,i),$async$vp)
+return A.a_(l.n8(0,"https://ffd4-62-228-14-131.ngrok-free.app/events",A.rE(A.au(["Authorization","Bearer "+$.q9],j,i)),k,i),$async$vp)
 case 6:n=b
 if(n.c===200)o.aj(new A.af1(o,n))
 q=1
@@ -43404,7 +43404,7 @@ j=t.N
 i=t.z
 k=A.au(["projectId",k.c,"blocId",k.d],j,i)
 s=6
-return A.a_(l.n8(0,"https://7ef4-62-228-14-131.ngrok-free.app/errors",A.rE(A.au(["Authorization","Bearer "+$.q9],j,i)),k,i),$async$vo)
+return A.a_(l.n8(0,"https://ffd4-62-228-14-131.ngrok-free.app/errors",A.rE(A.au(["Authorization","Bearer "+$.q9],j,i)),k,i),$async$vo)
 case 6:n=b
 if(n.c===200)o.aj(new A.aeY(o,n))
 q=1
@@ -43438,7 +43438,7 @@ var $async$vL=A.W(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 l=t.N
 s=6
-return A.a_(A.qJ(null).zf(0,"https://7ef4-62-228-14-131.ngrok-free.app/auth",null,A.au(["username",o.d,"password",o.e],l,l),null,null,A.ar3("POST",null),null,t.z),$async$vL)
+return A.a_(A.qJ(null).zf(0,"https://ffd4-62-228-14-131.ngrok-free.app/auth",null,A.au(["username",o.d,"password",o.e],l,l),null,null,A.ar3("POST",null),null,t.z),$async$vL)
 case 6:n=b
 if(n.c===200)$.q9=J.ap(n.a,"token")
 else $.q9=""
@@ -43511,7 +43511,7 @@ e=t.N
 d=t.z
 c=A.au(["projectId",n.a.c],e,d)
 s=7
-return A.a_(f.n8(0,"https://7ef4-62-228-14-131.ngrok-free.app/blocsStatistics",A.rE(A.au(["Authorization","Bearer "+$.q9],e,d)),c,d),$async$m3)
+return A.a_(f.n8(0,"https://ffd4-62-228-14-131.ngrok-free.app/blocsStatistics",A.rE(A.au(["Authorization","Bearer "+$.q9],e,d)),c,d),$async$m3)
 case 7:m=a2
 if(m.c!==200){s=1
 break}f=t.j
@@ -43520,7 +43520,7 @@ k=J.azQ(l,A.x(d,d),new A.aho())
 c=A.qJ(null)
 b=A.au(["projectId",n.a.c],e,d)
 s=8
-return A.a_(c.n8(0,"https://7ef4-62-228-14-131.ngrok-free.app/blocs",A.rE(A.au(["Authorization","Bearer "+$.q9],e,d)),b,d),$async$m3)
+return A.a_(c.n8(0,"https://ffd4-62-228-14-131.ngrok-free.app/blocs",A.rE(A.au(["Authorization","Bearer "+$.q9],e,d)),b,d),$async$m3)
 case 8:j=a2
 if(j.c!==200){s=1
 break}i=f.a(j.a)
@@ -43647,7 +43647,7 @@ var $async$nC=A.W(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 l=t.z
 s=6
-return A.a_(A.qJ(null).US(0,"https://7ef4-62-228-14-131.ngrok-free.app/projects",A.rE(A.au(["Authorization","Bearer "+$.q9],t.N,l)),l),$async$nC)
+return A.a_(A.qJ(null).US(0,"https://ffd4-62-228-14-131.ngrok-free.app/projects",A.rE(A.au(["Authorization","Bearer "+$.q9],t.N,l)),l),$async$nC)
 case 6:n=b
 if(n.c===200)o.aj(new A.ahv(o,n))
 q=1
